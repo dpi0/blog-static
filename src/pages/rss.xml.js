@@ -22,10 +22,6 @@ export async function GET(context) {
 				...thought.data,
 				link: `/thoughts/${thought.slug}/`,
 			})),
-			...ships.map((ship) => ({
-				...ship.data,
-				link: `/ships/${ship.slug}/`,
-			})),
 		],
 	});
 }
