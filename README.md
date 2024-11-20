@@ -1,4 +1,4 @@
-# dpi0's blog
+# dpi0's space
 
 using the template from https://github.com/Spikeysanju/sanju.sh
 
